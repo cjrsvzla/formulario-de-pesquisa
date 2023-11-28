@@ -1,0 +1,70 @@
+header {
+
+    /* font-family: sans-serif; */
+    font-family: Arial, sans-serif;
+    width: 50%;
+    background-color: #FFFFFF;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    line-height: 50px;
+    
+}
+
+.barra {
+
+    background-color: rgb(103, 58, 183);
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    height: 10px;
+    left: -1px;
+    top: -1px;
+    width: calc(100% + 2px);
+    overflow: hidden;
+
+}
+
+body {
+
+    background-color: #F0ECF9;
+    font-family: Arial, sans-serif;
+
+}
+
+.form-grupo {
+
+    background-color: #FFFFFF;
+    width: 48%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1%;
+    font-family: sans-serif;
+    overflow: hidden;
+    font-family: Arial, sans-serif;
+    
+}
+
+.form-grupo1 {
+
+    padding: 5px;
+    
+}
+
+button {
+
+    margin-left: 26%;
+    transform: scale(1.2);
+    cursor: pointer;
+
+}
+
+.form-row {
+    padding: 1%;
+    
+}
+
+.col {
+    padding: 1%;
+    
+}
+

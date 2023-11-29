@@ -6,7 +6,7 @@ header {
     margin-left: auto;
     margin-right: auto;
     text-align: center;
-    border: 1px solid #ddd;
+    /* border: 1px solid #ddd; */
     padding: 4px;
     
 }
@@ -39,6 +39,12 @@ header {
 .form-grupo1 {
 
     padding: 5px;
+    
+}
+
+.form-grupo2 {
+    padding-right: 30%;
+    margin: 1%;
     
 }
 
